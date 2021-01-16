@@ -1,0 +1,1 @@
+This is przykra-sprawa's first git project!
