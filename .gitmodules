@@ -7,3 +7,6 @@
 [submodule "vend"]
 	path = vend
 	url = https://github.com/glfw/glfw.git
+[submodule "v/glfw"]
+	path = v/glfw
+	url = https://github.com/glfw/glfw.git
